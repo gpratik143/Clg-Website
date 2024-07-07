@@ -1,2 +1,2 @@
 # Clg-Website
-Here I make Simple Website of My University
+Here is a Simple Website of My University
